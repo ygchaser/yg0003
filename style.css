@@ -1,1 +1,18 @@
-
+#branding {
+    padding: 0;
+    text-align: left;
+    height: 70px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    transition-property: background, left, padding, height;
+    text-align: center;
+    background-color:rgba(255,255,255,0.95);
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
