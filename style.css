@@ -16,3 +16,11 @@
     left: 0;
     z-index: 9999;
 }
+
+#logo {
+    margin: 0 auto;
+    padding: 0;
+    float: left;
+    height: 70px;
+    z-index: 999;
+    position: relative;
